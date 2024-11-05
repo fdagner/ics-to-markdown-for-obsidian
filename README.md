@@ -1,7 +1,7 @@
 ## Getting Started
 Import calendar entries from a date range into Obsidian's daily notes via ics links
 
-![Watch the video](video.mp4)
+https://github.com/user-attachments/assets/b04ec96f-380d-4d10-a1a5-54b2cfd53258
 
 ### Install Python
 - Install Python with the following libraries:
