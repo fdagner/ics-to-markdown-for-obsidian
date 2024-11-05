@@ -35,7 +35,6 @@ https://github.com/user-attachments/assets/b04ec96f-380d-4d10-a1a5-54b2cfd53258
 1. Add the URL of your ICS calendar with apostrophes and separated by commas, for example:
 
 ```python
-Code kopieren
 ics_urls = [
     'https://www.[your-url-address].ics',
     'https://calendar.google.com/calendar/ical/[your-secret-ics-link]/basic.ics',
@@ -54,7 +53,6 @@ template_path = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file
 3. Set your time zone:
 
 ```python
-Code kopieren
 local_tz = pytz.timezone('Europe/Berlin')
 ```
 
