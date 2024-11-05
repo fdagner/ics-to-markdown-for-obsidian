@@ -44,7 +44,6 @@ ics_urls = [
 2. Adjust the notes folder and the templates folder. In this example, daily notes are located in the daily notes folder, and the template for daily notes is in the templates folder with the template dailynote.md.
 
 ```python
-Code kopieren
 notes_folder = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..')), 'daily notes')
 placeholder = "<!-- CALENDAR_ENTRIES -->"
 template_path = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..')), 'templates', 'dailynote.md')
