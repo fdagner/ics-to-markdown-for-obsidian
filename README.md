@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/b04ec96f-380d-4d10-a1a5-54b2cfd53258
 
 ### Plugins in Obsidian
 - Install the [Calendar plugin](https://github.com/liamcain/obsidian-calendar-plugin) (optional).
-- Install the [Python Scripter](https://github.com/nickrallison/obsidian-python-scripter) plugin (required).
+- Install the [Python Scripter plugin](https://github.com/nickrallison/obsidian-python-scripter) (required).
 - Add the CalendarToMarkdown.py file to the .obsidian/scripts/python/ folder.
 
 ### Edit the CalendarToMarkdown.py file
