@@ -156,7 +156,6 @@ def import_ics(start_date, end_date):
                     f">#### {event.name}\n"
                     f">- **Start**: {local_start}\n"
                     f">- **End**: {local_end}\n"
-                    f">- **Description**: {event.description or 'No description'}\n"
                     f"><!-- ID: {event_id} -->"
                 )
 
